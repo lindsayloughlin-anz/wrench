@@ -5,7 +5,7 @@ require (
 	cloud.google.com/go/spanner v1.51.0
 	github.com/carlmjohnson/versioninfo v0.22.5
 	github.com/google/go-cmp v0.6.0
-	github.com/google/uuid v1.3.1
+	github.com/google/uuid v1.6.0
 	github.com/kennygrant/sanitize v1.2.4
 	github.com/ory/dockertest/v3 v3.10.0
 	github.com/spf13/cobra v1.7.0
